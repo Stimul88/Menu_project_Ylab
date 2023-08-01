@@ -19,6 +19,12 @@ pip install -r requirements.txt
 
 DATABASE_URL = "postgresql://пользователь:пароль@сервер/имя_базы"
 
+* ### 3. Запуск сервера:
+
+```bash
+uvicorn main:app --reload
+```
+
 
 ## Requests:
 
