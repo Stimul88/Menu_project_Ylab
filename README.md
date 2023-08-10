@@ -14,7 +14,7 @@
 ```bash
 pip install -r requirements.txt
 ```
-
+ cvb
 * ### 2. Создать .env файл в общей папке и указать значение для Postgresql:
 
 DATABASE_URL = "postgresql://пользователь:пароль@сервер/имя_базы"
