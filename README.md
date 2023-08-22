@@ -25,6 +25,8 @@ DATABASE_URL = "postgresql://пользователь:пароль@сервер/
 uvicorn main:app --reload
 ```
 
+docker image build . --tag=my_app_08
+
 
 ## Requests:
 
